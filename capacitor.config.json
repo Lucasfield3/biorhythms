@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "bioRhytm",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

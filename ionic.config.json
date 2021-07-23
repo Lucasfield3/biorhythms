@@ -1,0 +1,7 @@
+{
+  "name": "bioRhytm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
