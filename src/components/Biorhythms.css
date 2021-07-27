@@ -1,0 +1,15 @@
+.biorhythms p {
+    line-height:normal
+}
+
+.biorhythms .emotional{
+    color: var(--app-emotional-color)
+}
+
+.biorhythms .physical{
+    color: var(--app-physical-color)
+}
+
+.biorhythms .intellectual{
+    color: var(--app-intellectual-color)
+}

@@ -1,0 +1,9 @@
+:root{
+    --app-emotional-color:rgb(180, 18, 18);
+    --app-physical-color:rgb(20, 150, 20);
+    --app-intellectual-color:rgb(24, 24, 165);
+}
+
+body{
+    background: white;
+}
