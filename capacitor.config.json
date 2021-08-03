@@ -1,6 +1,10 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "bioRhytm",
-	"webDir": "build",
-	"bundledWebRuntime": false
+  "appId": "org.example.biorhythms",
+  "appName": "Biorhythms",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "server":{
+    "url":"http://192.168.1.4:3000"
+  }
 }
