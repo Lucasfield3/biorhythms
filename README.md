@@ -3,4 +3,6 @@ App to calculate the biorhythms accoding to the birth date and the target date. 
 
 App interface:
 
-![interface](interface.png)
+![ScreenShot](imagens-pc/interface.png)
+<img src="imagens-pc/interface.png?raw=true" width="100" height="100" />
+
