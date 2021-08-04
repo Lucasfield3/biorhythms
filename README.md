@@ -3,6 +3,8 @@ App to calculate the biorhythms accoding to the birth date and the target date. 
 
 Link: [![Netlify Status](https://api.netlify.com/api/v1/badges/f75a5d46-d3ff-42aa-8a57-25797fed5730/deploy-status)](https://biorhytms-calc.netlify.app/)
 
+Technologies:Ionic, React.ts, Typescript, Capacitor, Htm and Css.
+
 App interface(IOS/Android/Windows):
 
 ![image](https://user-images.githubusercontent.com/62312987/128267068-9235facb-42aa-41f7-a519-13ac7e735cb3.png)
