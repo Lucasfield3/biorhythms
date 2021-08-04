@@ -30,7 +30,7 @@ const Home: React.FC = () => {
       <IonContent className='ion-padding' fullscreen>
       { birthDate && <BiorhythmCard  birthDate={birthDate} targetDate={targetDate}/>}
         <IonItem>
-          <IonLabel position='fixed'>Date of birth:</IonLabel>
+          <IonLabel position='fixed'>Birth Date:</IonLabel>
           <IonDatetime displayFormat='D MMM YYYY'
           value={birthDate}
           onIonChange={(event)=>setBirthDate(event.detail.value!)}
